@@ -11,10 +11,8 @@ O projeto tem como objetivo automatizar cálculos, facilitar a visualização do
 ## ⚙️ Funcionalidades
 
 * Cálculo automático de porcentagens
-* Suporte a múltiplos itens por orçamento
 * Interface visual moderna estilo recibo
 * Destaque de valores e totais
-* Histórico de orçamentos
 
 ---
 
